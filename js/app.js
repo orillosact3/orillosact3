@@ -110,7 +110,7 @@ $(function(){
                   `
                   <div>
                   <img class="imahe" src="${ansimage}" alt="">
-                  <p>Congrats! Funny yown !</p>
+                  <p>Nice One! !</p>
                   </div>
                   `
                 }
@@ -120,7 +120,7 @@ $(function(){
                   `
                   <div>
                   <img class="imahe" src="${ansimage}" alt="">
-                  <p>SORRY! better luck next time</p>
+                  <p>Try Again Friend!</p>
                   </div>
                   `
 
